@@ -9332,7 +9332,7 @@ const YQ = ()=>tA.jsxs(tA.Fragment, {
             }
             ,
             className: "w-full bg-custom-purple text-white py-2 rounded-md hover:bg-custom-purple focus:outline-none focus:ring-2 focus:ring-custom-purple focus:ring-opacity-50",
-            children: "انشىء كرتك"
+            children: "انشئ كرت المعايدة الخاص بك"
         })]
     })
 }
