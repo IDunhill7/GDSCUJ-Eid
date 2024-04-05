@@ -9295,7 +9295,7 @@ Do.createRoot = nB.createRoot,
 Do.hydrateRoot = nB.hydrateRoot;
 const YQ = ()=>tA.jsxs(tA.Fragment, {
     children: [tA.jsx("img", {
-        src: "./GDSCuj.png",
+        src: "./assests/GDSCuj.png",
         alt: "logo",
         className: "w-3/4  md:w-96 lg:w-96"
     }), tA.jsx("h1", {
@@ -15619,7 +15619,7 @@ const UF = ({name: A})=>{
             ref: e,
             className: "relative",
             children: [tA.jsx("img", {
-                src: "./card.png",
+                src: "./assests/card.png",
                 alt: "Background",
                 style: {
                     width: "100%",
